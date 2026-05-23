@@ -1,0 +1,203 @@
+{
+  "data": {
+    "fullName": "Bhaliya Yash",
+    "logo": "logo.png",
+    "email": "bhaliyayash595@gmail.com",
+    "titleArray": [
+      "Full-Stack Web Developer",
+      "MERN Stack Developer",
+      "Frontend & Backend Developer",
+      "React.js Enthusiast",
+      "Computer Science Graduate"
+    ],
+    "subTitle": "BCA graduate, MERN stack developer, and a passionate problem solver. When I'm not building web apps, I'm exploring the next big thing in tech!",
+    "resumeLink": "https://www.linkedin.com/in/yash-bhaliya-706526312/",
+    "aboutDescription": [
+      "Hi! I'm Yash, a passionate Frontend & Backend Developer and BCA graduate from Surat, India.",
+      "I specialize in MERN stack development, with strong expertise in React.js, Node.js, Express.js, and MongoDB.",
+      "I have hands-on experience building modern, responsive, and scalable web applications with clean UI/UX design.",
+      "I work as a Web Developer at PrimeArc Tech where I build production-ready full-stack applications, integrate REST APIs, and manage MongoDB databases.",
+      "I enjoy developing real-world projects that solve practical problems and deliver smooth, seamless user experiences.",
+      "I'm continuously exploring Advanced MERN Stack Architecture, AI & Modern Web Technologies, and Scalable Backend Systems.",
+      "Let's connect and build something impactful together!"
+    ],
+    "aboutImage": "me.jpg",
+    "skills": [
+      {
+        "title": "Frontend",
+        "skillname": [
+          {
+            "name": "React",
+            "image": "react"
+          },
+          {
+            "name": "HTML",
+            "image": "html"
+          },
+          {
+            "name": "CSS",
+            "image": "css"
+          },
+          {
+            "name": "JavaScript",
+            "image": "javascript"
+          },
+          {
+            "name": "BootStrap",
+            "image": "bs"
+          }
+        ]
+      },
+      {
+        "title": "Backend",
+        "skillname": [
+          {
+            "name": "Node Js",
+            "image": "node"
+          },
+          {
+            "name": "Express Js",
+            "image": "express"
+          },
+          {
+            "name": "MongoDB",
+            "image": "mdb"
+          },
+          {
+            "name": "Next.js",
+            "image": "next"
+          }
+        ]
+      },
+      {
+        "title": "Others",
+        "skillname": [
+          {
+            "name": "Firebase",
+            "image": "firebase"
+          },
+          {
+            "name": "JWT Auth",
+            "image": "jwt"
+          },
+          {
+            "name": "Git",
+            "image": "git"
+          },
+          {
+            "name": "GitHub",
+            "image": "github"
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "projectName": "Earnify – Turn Skills into Income",
+        "projectType": "Digital Marketplace Platform",
+        "projectImage": [
+          "Project1/earnify.png"
+        ],
+        "techStack": [
+          {
+            "name": "React",
+            "image": "react"
+          },
+          {
+            "name": "Node Js",
+            "image": "node"
+          },
+          {
+            "name": "Express Js",
+            "image": "express"
+          },
+          {
+            "name": "MongoDB",
+            "image": "mdb"
+          }
+        ],
+        "description": "Earnify is a digital marketplace platform where users can buy and sell premium study materials, templates, and explore freelance opportunities. Built with the MERN stack, it features user authentication, product listings with rating cards, and a clean responsive user interface.",
+        "githubLink": "https://github.com/yashbhaliya/Earnify",
+        "liveLink": "https://earnify-gamma.vercel.app/"
+      },
+      {
+        "projectName": "Smart Career & Job Finding Platform",
+        "projectType": "Job Portal Web App",
+        "projectImage": [
+          "Project2/job-portal.png"
+        ],
+        "techStack": [
+          {
+            "name": "HTML",
+            "image": "html"
+          },
+          {
+            "name": "CSS",
+            "image": "css"
+          },
+          {
+            "name": "JavaScript",
+            "image": "javascript"
+          },
+          {
+            "name": "Node Js",
+            "image": "node"
+          },
+          {
+            "name": "MongoDB",
+            "image": "mdb"
+          }
+        ],
+        "description": "This Job Portal is a modern career and recruitment platform where users can explore job opportunities, search roles by category, and apply for jobs easily. The platform provides a clean and responsive interface with advanced job filtering, featured listings, and user-friendly navigation for both job seekers and recruiters.",
+        "githubLink": "https://github.com/yashbhaliya/job-portal",
+        "liveLink": "https://job-portal-1-fxjt0jp5v-yashbhaliyas-projects.vercel.app/"
+      },
+      {
+        "projectName": "PDF Tools – All-in-One PDF Management & Editing Platform",
+        "projectType": "PDF Tools Web App",
+        "projectImage": [
+          "Project3/pdf-tool.png"
+        ],
+        "techStack": [
+          {
+            "name": "React Js",
+            "image": "react"
+          },
+          {
+            "name": "Node Js",
+            "image": "node"
+          },
+          {
+            "name": "Express Js",
+            "image": "express"
+          },
+          {
+            "name": "Next.js",
+            "image": "next"
+          },
+          {
+            "name": "MongoDB",
+            "image": "mdb"
+          },
+          {
+            "name": "Tailwind CSS",
+            "image": "tailwind"
+          },
+          {
+            "name": "Vercel",
+            "image": "vercel"
+          }
+        ],
+        "description": "This PDF Tools Web App is a modern and user-friendly platform designed to simplify PDF management tasks online. Users can easily merge, split, compress, convert, organize, and optimize PDF files with a fast and responsive interface. The platform focuses on smooth performance, secure file handling, and an easy-to-use experience across desktop and mobile devices. The website provides multiple PDF utilities in one place, helping users manage documents efficiently without installing extra software. Built with modern web technologies, the application delivers fast processing, clean UI design, and seamless navigation.",
+        "githubLink": "https://github.com/Hardik160998/PDF-Tools",
+        "liveLink": "https://pdf-tools-six-bay.vercel.app/"
+      }
+    ],
+    "contactParagraph": "I'm currently open to full-time roles, internships, and freelance opportunities in Frontend, MERN Stack, and Full Stack Web Development. Let's connect if you'd like to work together!",
+    "socialLinks": {
+      "github": "https://github.com/yashbhaliya",
+      "linkedin": "https://www.linkedin.com/in/yash-bhaliya-706526312/",
+      "instagram": ""
+    }
+  }
+}
